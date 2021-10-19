@@ -1,0 +1,52 @@
+body{
+ margin:0px;
+ padding: 0px;
+    
+}
+i , button{
+    cursor: pointer;
+}
+h1{
+    margin-bottom: 0;
+    padding-top: 55px;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+.edid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.tam{
+    margin: 5em;
+    margin-bottom: 5em;
+    width: 10em;
+    height: 2em;
+    background-color: seagreen;
+    border-radius: 75px;
+    border: 0px;
+    font-size: 1em;
+    color: slategray;
+}
+.tarea line-one{
+    margin: 0px;
+    margin-left: 15em;
+    margin-right: 15em;
+    background-color: blue;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+.tarea line-two{
+    margin: 0px;
+    margin-left: 15em;
+    margin-right: 15em;
+    background-color: blue;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
